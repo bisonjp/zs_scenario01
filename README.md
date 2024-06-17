@@ -20,4 +20,4 @@ This code will make following AWS environment. Also App Connector will connect t
     ├── aws_ac.tf
     ├── zpa.tf
     ├── variable.tf
-    ├── output.tf
+    └── output.tf
